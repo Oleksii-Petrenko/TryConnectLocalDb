@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Asus\source\repos\Base\Base\bin\Debug\Base.exe
+C:\Users\Asus\source\repos\Base\Base\bin\Debug\Base.pdb
+C:\Users\Asus\source\repos\Base\Base\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\Base\Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\Base\Base\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\Base\Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\Base\Base\obj\Debug\Base.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Base\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Base\Base\obj\Debug\Base.csproj.CopyComplete
+C:\Users\Asus\source\repos\Base\Base\obj\Debug\Base.exe
+C:\Users\Asus\source\repos\Base\Base\obj\Debug\Base.pdb
